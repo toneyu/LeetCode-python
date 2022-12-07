@@ -1,2 +1,2 @@
 # LeetCode-python/SQL
-Python solutions for LC questions
+Python/SQL solutions for LC questions
